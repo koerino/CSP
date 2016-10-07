@@ -1,2 +1,0 @@
-# CSP
-constraint satisfaction problems
